@@ -1,0 +1,12 @@
+Data Description:
+
+For this project we need the following data:
+New York data sheet with Neighbourhood names, latitude, longitude and Download it from given link in week 3 assignments.
+Description: This data set contains the required information. And we will use this data set to explore various neighbourhoods and borough of New York city.
+API
+Foursquare API: https://developer.foursquare.com/
+Description: By using the foursquare api we will be able to explore the nearby venues of the different borough in New York city. 
+Folium Library
+Description: used to create the map
+WordCloud
+Description: Used to visualise the words (names) which are most common.

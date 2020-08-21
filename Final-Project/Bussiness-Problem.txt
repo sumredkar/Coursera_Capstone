@@ -1,0 +1,12 @@
+Bussness Problem:
+
+New York is a Populated city. Customer is new to the New York City. He wants to explore the Queens and Manhattan Borough in New York City. 
+New York city is very big and very populated city. Exploring city and finding the difference between Boroughs will be very difficult to the Customer. 
+
+Question considering the 2 Boroughs (Queens and Manhattan)
+1. Difference between Boroughs?
+2. Most common venue in both the Borough?
+3. Most categorical neighbourhood in both the Borough?
+4. Difference between borough based on categorical venues?
+
+Customer find best solution to above questions is to compare the both the borough and find the the answers for the questions. Comparing both Borough will help him to find out all the related information he wants to know.

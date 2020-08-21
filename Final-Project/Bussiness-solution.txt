@@ -1,0 +1,5 @@
+Bussness Solution:
+
+For this we need to explore Queens and Manhattan Boroughs in the New York City dataset.  We will Use dataset given in the week 3 assignment to explore more about the boroughs. 
+First we will do data cleaning from the New York dataset to proceed further. After this we will extract data for Queens Borough and Manhattan Borough from New York Datasets.  We will get the latitude and longitude of both the Borough using Geocoder and used this latitude and longitude in Foursquare API to get the Nearby venues of the both Borough.
+We will visualise data for comparison using Map, Word Cloud for better visualization and Also will compares bar charts to see which is most categorical Neighbourhoods of both the Boroughs. 
