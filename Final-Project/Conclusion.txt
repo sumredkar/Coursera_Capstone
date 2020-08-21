@@ -1,5 +1,8 @@
 Conclusion:
 
 From the above Cluster map and Word map we can say that the most common venues in the both the Boroughs Are Pizza Place, Coffee shops, Food restaurants, Pharmacy, bakery.
-Difference we can see is Queen is having American and Chinese restaurants whereas in Manhattan we can see only Chinese restaurants are common. One more difference is we have donut shop in Manhattan but not in Queens.
+
+Difference we can see is Queen is having American and Chinese restaurants quantity is almost same whereas in Manhattan we can see More Chinese restaurants. Both the Boroughs are looks like almost same kind of venues.
+
 Now according to the bar chart Queens has different number of categories in the top 10 neighbourhoods whereas in Manhattan we can see almost the top 10 are having all the same number of categories.
+
